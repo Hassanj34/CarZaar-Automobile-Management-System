@@ -35,6 +35,9 @@ The steps for SQL injection prevention are as follows:
   use of the result of the query we use the fetch function to get necessary details.
 
 
+
+
+
 ### Homepage
 ![Webpage 1](screenshots/Picture1.png)  
 
