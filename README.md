@@ -24,10 +24,10 @@
 ![Webpage 1](screenshots/Picture3.png)
 
 ### Admin Dashboard
-![Webpage 1](screenshots/Picture4.png)
+![Webpage 1](screenshots/Picture5.png)
 
 ### User Dashboard
-![Webpage 1](screenshots/Picture5.png)
+![Webpage 1](screenshots/Picture6.png)
 
 This system has been implemented using LAMP stack
 In order to run this project, you'll need to XAMP to run phpMyAdmin and Apache for a server to host the site on.
