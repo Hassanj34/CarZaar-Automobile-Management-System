@@ -14,16 +14,23 @@
 * Apart from this, an admin will be registered in the system to review user activity and manage the posted ads.
 
 
-# Homepage
+### Homepage
 ![Webpage 1](screenshots/Picture1.png)  
 
-# Signup
+### Signup
 ![Webpage 1](screenshots/Picture2.png)  
 
-# Login
+### Login
 ![Webpage 1](screenshots/Picture3.png)
 
-# 
+### Admin Dashboard
 ![Webpage 1](screenshots/Picture4.png)
 
+### User Dashboard
 ![Webpage 1](screenshots/Picture5.png)
+
+This system has been implemented using LAMP stack
+In order to run this project, you'll need to XAMP to run phpMyAdmin and Apache for a server to host the site on.
+You must import the database into phpMyAdmin with the following details:
+* Name the database 'se_project' without the inverted commas.
+* Use the appropriate username and password for your system (default is often 'root' and '', without the inverted commas)
